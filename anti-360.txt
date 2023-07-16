@@ -1,0 +1,2 @@
+! Title: anti-360
+||$domain=/(^|\.)(([\w-]+\.)*(360\.cn|(360|360safe|360totalsecurity|qihoo)\.com))$/
