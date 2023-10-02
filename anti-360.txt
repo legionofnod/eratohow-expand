@@ -5,6 +5,8 @@
 ||360safe.com^
 ||360totalsecurity.cn^
 ||360totalsecurity.com^
+||www.x360xs.com^
+||\b([\w-]+\.)*(360\.cn|(360|360safe|360totalsecurity|qihoo)\.com)^
 ||qihoo.cn^
 ||qihoo.com^
 ||xmindchina.net
