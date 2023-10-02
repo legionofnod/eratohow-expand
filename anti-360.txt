@@ -1,11 +1,4 @@
 ! Title: anti-360    360\.cn|(360|360safe|360totalsecurity|qihoo)\.com
-||360.cn^
-||360.com^
-||360safe.cn^
-||360safe.com^
-||360totalsecurity.cn^
-||360totalsecurity.com^
-||www.x360xs.com^
 ||\b([\w-]+\.)*(360\.cn|(360|360safe|360totalsecurity|qihoo)\.com)^
 ||qihoo.cn^
 ||qihoo.com^
